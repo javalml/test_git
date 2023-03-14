@@ -1,5 +1,1 @@
-# test_git
-# test_git
-# test_git
-
-hello, this is my first change
+I cleaned everything. Now make changes from my remote repo
